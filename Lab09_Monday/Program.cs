@@ -16,7 +16,7 @@ namespace Lab09_Monday
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Week_09_Form());
         }
     }
 }

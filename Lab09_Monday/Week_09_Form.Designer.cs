@@ -1,6 +1,6 @@
 ﻿namespace Lab09_Monday
 {
-    partial class Form1
+    partial class Week_09_Form
     {
         /// <summary>
         /// Required designer variable.
